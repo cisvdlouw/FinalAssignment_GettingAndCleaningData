@@ -20,7 +20,7 @@ I would like to explain some decisions I made so they are clear before judging.
 
 -------------------------------------------------------------------------------
 
-#Steps used to get to Tidy Wide tidy dataset
+# Steps used to get to Tidy Wide tidy dataset
 1. Loaded all data related to:
 	1.1 Training data
 	1.2 Test data
