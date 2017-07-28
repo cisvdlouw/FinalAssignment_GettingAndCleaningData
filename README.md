@@ -15,12 +15,12 @@ I would like to explain some decisions I made so they are clear before judging.
 - Since i have very little understanding of the content of the dataset I decided to use
 	the features.txt as 'meaningful' column names.
 
--To create the cookbook I used the memisc packages which allows the function cookbook(x)
+- To create the cookbook I used the memisc packages which allows the function cookbook(x)
 	and saves a lot of tedious manual work
 
 -------------------------------------------------------------------------------
 
-##Steps used to get to Tidy Wide tidy dataset
+#Steps used to get to Tidy Wide tidy dataset
 1. Loaded all data related to:
 	1.1 Training data
 	1.2 Test data
@@ -57,6 +57,7 @@ I would like to explain some decisions I made so they are clear before judging.
 
 ------------------------------------------------------------------------------
 
+# Wide tidy data set
 The result is a wide format Tidy dataset.
 
 READ the dataset using:
