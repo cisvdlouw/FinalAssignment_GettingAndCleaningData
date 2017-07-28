@@ -18,6 +18,9 @@ I would like to explain some decisions I made so they are clear before judging.
 - To create the cookbook I used the memisc packages which allows the function cookbook(x)
 	and saves a lot of tedious manual work
 
+- The cookbook will contain an explanation about the contents of the data, this readme
+	will explain the steps that were taken
+
 -------------------------------------------------------------------------------
 
 # Steps used to get to Tidy Wide tidy dataset
