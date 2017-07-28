@@ -53,5 +53,5 @@ full_data<-full_data[,c(1,68,2:67)]
 full_data %>% 
         group_by(Subject,Activity) %>%
         summarise_all(funs(mean)) ->
-finalDataSet
+tidy_data_set
 
